@@ -1,0 +1,12 @@
+[Unit]
+Description=Fireplace Jazz Player
+
+[Service]
+User=fireplace-jazz
+WorkingDirectory=/opt/fireplace-jazz
+ExecStart=/bin/bash -c "sudo /opt/fireplace-jazz/run.sh & wait" 
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target
