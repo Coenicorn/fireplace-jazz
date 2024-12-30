@@ -7,4 +7,4 @@ Sadly I used it to play these kinds of sounds, so I wrote this for my server.
 
 On my server there's a 'fireplace.wav' in the root and .wav files with jazz music in ./jazz.
 
-It's shit I know
+This needs some things that I just did on my server without writing them down so I'll never know again, but it works here. No use in trying to copy it though, this repo is just for future me to laugh at (though current me is already laughing at it)
